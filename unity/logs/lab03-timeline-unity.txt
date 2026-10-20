@@ -1,0 +1,844 @@
+[t=0.00 frame=0] Sphere.Awake
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Awake () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:13)
+
+[t=0.00 frame=0] Sphere.OnEnable
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:OnEnable () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:17)
+
+[t=0.00 frame=0] Cube.Awake
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Awake () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:13)
+
+[t=0.00 frame=0] Cube.OnEnable
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:OnEnable () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:17)
+
+[t=0.00 frame=1] Sphere.Start
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Start () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:21)
+
+[t=0.00 frame=1] Cube.Start
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Start () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:21)
+
+[t=0.00 frame=1] Sphere.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=0.00 frame=1] Cube.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=0.00 frame=1] Sphere.Update (world (0.00, 0.00, 0.00), local (0.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=0.00 frame=1] Cube.Update (world (-3.00, 0.00, 0.00), local (-3.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=0.00 frame=1] Sphere.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=0.00 frame=1] Cube.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=1.00 frame=329] Sphere.Update (world (0.00, 0.00, 0.00), local (0.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=1.00 frame=329] Cube.Update (world (-3.00, 0.00, 0.00), local (-3.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=1.00 frame=329] Sphere.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=1.00 frame=329] Cube.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=1.02 frame=338] Sphere.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=1.02 frame=338] Cube.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=2.00 frame=776] ===== MARK: Cube script: enabled = false
+UnityEngine.Debug:Log (object)
+Lab03LifecycleController:Mark (string) (at Assets/Lab03/Scripts/Lab03LifecycleController.cs:31)
+Lab03LifecycleController:Update () (at Assets/Lab03/Scripts/Lab03LifecycleController.cs:18)
+
+[t=2.00 frame=776] Cube.OnDisable
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:OnDisable () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:39)
+UnityEngine.Behaviour:set_enabled (bool)
+Lab03LifecycleController:Update () (at Assets/Lab03/Scripts/Lab03LifecycleController.cs:18)
+
+[t=2.00 frame=776] Sphere.Update (world (0.00, 0.00, 0.00), local (0.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=2.00 frame=776] Sphere.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=2.04 frame=794] Sphere.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=3.00 frame=1227] ===== MARK: Capsule: SetActive(true)
+UnityEngine.Debug:Log (object)
+Lab03LifecycleController:Mark (string) (at Assets/Lab03/Scripts/Lab03LifecycleController.cs:31)
+Lab03LifecycleController:Update () (at Assets/Lab03/Scripts/Lab03LifecycleController.cs:19)
+
+[t=3.00 frame=1227] Capsule.Awake
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Awake () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:13)
+UnityEngine.GameObject:SetActive (bool)
+Lab03LifecycleController:Update () (at Assets/Lab03/Scripts/Lab03LifecycleController.cs:19)
+
+[t=3.00 frame=1227] Capsule.OnEnable
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:OnEnable () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:17)
+UnityEngine.GameObject:SetActive (bool)
+Lab03LifecycleController:Update () (at Assets/Lab03/Scripts/Lab03LifecycleController.cs:19)
+
+[t=3.00 frame=1227] Sphere.Update (world (0.00, 0.00, 0.00), local (0.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=3.00 frame=1227] Capsule.Start
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Start () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:21)
+
+[t=3.00 frame=1227] Sphere.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=3.00 frame=1227] Capsule.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=3.01 frame=1228] Capsule.Update (world (3.00, 0.00, 0.00), local (3.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=3.02 frame=1235] Capsule.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=3.06 frame=1248] Sphere.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=4.00 frame=1671] ===== MARK: Cube script: enabled = true
+UnityEngine.Debug:Log (object)
+Lab03LifecycleController:Mark (string) (at Assets/Lab03/Scripts/Lab03LifecycleController.cs:31)
+Lab03LifecycleController:Update () (at Assets/Lab03/Scripts/Lab03LifecycleController.cs:20)
+
+[t=4.00 frame=1671] Cube.OnEnable
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:OnEnable () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:17)
+UnityEngine.Behaviour:set_enabled (bool)
+Lab03LifecycleController:Update () (at Assets/Lab03/Scripts/Lab03LifecycleController.cs:20)
+
+[t=4.00 frame=1671] Cube.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=4.00 frame=1672] Sphere.Update (world (0.00, 0.00, 0.00), local (0.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=4.00 frame=1672] Cube.Update (world (-3.00, 0.00, 0.00), local (-3.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=4.00 frame=1672] Sphere.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=4.00 frame=1672] Capsule.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=4.01 frame=1673] Capsule.Update (world (3.00, 0.00, 0.00), local (3.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=4.02 frame=1680] Cube.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=4.04 frame=1688] Capsule.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=4.08 frame=1704] Sphere.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=5.00 frame=2115] Cube.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=5.01 frame=2116] Sphere.Update (world (0.00, 0.00, 0.00), local (0.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=5.01 frame=2116] Cube.Update (world (-3.00, 0.00, 0.00), local (-3.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=5.01 frame=2116] Sphere.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=5.01 frame=2116] Capsule.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=5.01 frame=2117] Capsule.Update (world (3.00, 0.00, 0.00), local (3.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=5.04 frame=2132] Cube.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=5.06 frame=2138] Capsule.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=5.10 frame=2157] Sphere.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=6.00 frame=2556] ===== MARK: Sphere: SetActive(false)
+UnityEngine.Debug:Log (object)
+Lab03LifecycleController:Mark (string) (at Assets/Lab03/Scripts/Lab03LifecycleController.cs:31)
+Lab03LifecycleController:Update () (at Assets/Lab03/Scripts/Lab03LifecycleController.cs:21)
+
+[t=6.00 frame=2556] Sphere.OnDisable
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:OnDisable () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:39)
+UnityEngine.GameObject:SetActive (bool)
+Lab03LifecycleController:Update () (at Assets/Lab03/Scripts/Lab03LifecycleController.cs:21)
+
+[t=6.00 frame=2557] Cube.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=6.01 frame=2558] Cube.Update (world (-3.00, 0.00, 0.00), local (-3.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=6.01 frame=2558] Capsule.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=6.01 frame=2559] Capsule.Update (world (3.00, 0.00, 0.00), local (3.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=6.04 frame=2572] Cube.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=6.06 frame=2578] Capsule.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=7.01 frame=3007] Cube.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=7.01 frame=3008] Cube.Update (world (-3.00, 0.00, 0.00), local (-3.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=7.01 frame=3008] Capsule.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=7.01 frame=3009] Capsule.Update (world (3.00, 0.00, 0.00), local (3.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=7.06 frame=3030] Cube.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=7.08 frame=3040] Capsule.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=8.00 frame=3451] ===== MARK: Sphere: SetActive(true)
+UnityEngine.Debug:Log (object)
+Lab03LifecycleController:Mark (string) (at Assets/Lab03/Scripts/Lab03LifecycleController.cs:31)
+Lab03LifecycleController:Update () (at Assets/Lab03/Scripts/Lab03LifecycleController.cs:22)
+
+[t=8.00 frame=3451] Sphere.OnEnable
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:OnEnable () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:17)
+UnityEngine.GameObject:SetActive (bool)
+Lab03LifecycleController:Update () (at Assets/Lab03/Scripts/Lab03LifecycleController.cs:22)
+
+[t=8.00 frame=3451] Sphere.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=8.00 frame=3452] Sphere.Update (world (0.00, 0.00, 0.00), local (0.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=8.01 frame=3453] Cube.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=8.01 frame=3454] Cube.Update (world (-3.00, 0.00, 0.00), local (-3.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=8.01 frame=3454] Capsule.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=8.01 frame=3455] Capsule.Update (world (3.00, 0.00, 0.00), local (3.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=8.02 frame=3460] Sphere.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=8.06 frame=3474] Cube.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=8.10 frame=3494] Capsule.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=9.00 frame=3894] Sphere.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=9.00 frame=3895] Sphere.Update (world (0.00, 0.00, 0.00), local (0.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=9.01 frame=3896] Cube.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=9.01 frame=3897] Cube.Update (world (-3.00, 0.00, 0.00), local (-3.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=9.01 frame=3897] Capsule.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=9.01 frame=3898] Capsule.Update (world (3.00, 0.00, 0.00), local (3.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=9.04 frame=3914] Sphere.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=9.08 frame=3928] Cube.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=9.12 frame=3945] Capsule.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=10.00 frame=4342] ===== MARK: Capsule: Destroy
+UnityEngine.Debug:Log (object)
+Lab03LifecycleController:Mark (string) (at Assets/Lab03/Scripts/Lab03LifecycleController.cs:31)
+Lab03LifecycleController:Update () (at Assets/Lab03/Scripts/Lab03LifecycleController.cs:23)
+
+[t=10.00 frame=4342] Capsule.OnDisable
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:OnDisable () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:39)
+UnityEngine.Object:Destroy (UnityEngine.Object)
+Lab03LifecycleController:Update () (at Assets/Lab03/Scripts/Lab03LifecycleController.cs:23)
+
+[t=10.00 frame=4342] Capsule.OnDestroy
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:OnDestroy () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:41)
+
+[t=10.00 frame=4343] Sphere.Update (world (0.00, 0.00, 0.00), local (0.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=10.00 frame=4343] Sphere.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=10.01 frame=4344] Cube.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=10.01 frame=4345] Cube.Update (world (-3.00, 0.00, 0.00), local (-3.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=10.06 frame=4366] Sphere.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=10.10 frame=4385] Cube.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=11.00 frame=4784] Sphere.Update (world (0.00, 0.00, 0.00), local (0.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=11.00 frame=4784] Sphere.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=11.01 frame=4785] Cube.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=11.01 frame=4786] Cube.Update (world (-3.00, 0.00, 0.00), local (-3.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=11.08 frame=4817] Sphere.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=11.12 frame=4834] Cube.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=12.01 frame=5233] Sphere.Update (world (0.00, 0.00, 0.00), local (0.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=12.01 frame=5233] Sphere.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=12.01 frame=5234] Cube.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=12.01 frame=5235] Cube.Update (world (-3.00, 0.00, 0.00), local (-3.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=12.08 frame=5266] Sphere.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=12.12 frame=5283] Cube.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=13.01 frame=5678] Sphere.Update (world (0.00, 0.00, 0.00), local (0.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=13.01 frame=5678] Sphere.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=13.01 frame=5679] Cube.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=13.01 frame=5680] Cube.Update (world (-3.00, 0.00, 0.00), local (-3.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=13.10 frame=5720] Sphere.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=13.14 frame=5737] Cube.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=14.01 frame=6125] Sphere.Update (world (0.00, 0.00, 0.00), local (0.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=14.01 frame=6125] Sphere.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=14.01 frame=6126] Cube.Update (world (-3.00, 0.00, 0.00), local (-3.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=14.01 frame=6126] Cube.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=14.12 frame=6174] Sphere.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=14.16 frame=6194] Cube.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=15.01 frame=6573] Sphere.Update (world (0.00, 0.00, 0.00), local (0.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=15.01 frame=6573] Sphere.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=15.01 frame=6574] Cube.Update (world (-3.00, 0.00, 0.00), local (-3.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=15.01 frame=6574] Cube.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=15.12 frame=6622] Sphere.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=15.16 frame=6641] Cube.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=16.01 frame=7023] Sphere.Update (world (0.00, 0.00, 0.00), local (0.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=16.01 frame=7023] Sphere.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=16.02 frame=7024] Cube.Update (world (-3.00, 0.00, 0.00), local (-3.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=16.02 frame=7024] Cube.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=16.12 frame=7069] Sphere.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=16.18 frame=7096] Cube.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=17.01 frame=7463] Sphere.Update (world (0.00, 0.00, 0.00), local (0.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=17.01 frame=7463] Sphere.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=17.02 frame=7464] Cube.Update (world (-3.00, 0.00, 0.00), local (-3.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=17.02 frame=7464] Cube.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=17.14 frame=7519] Sphere.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=17.18 frame=7536] Cube.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=18.01 frame=7909] Sphere.Update (world (0.00, 0.00, 0.00), local (0.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=18.01 frame=7909] Sphere.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=18.02 frame=7910] Cube.Update (world (-3.00, 0.00, 0.00), local (-3.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=18.02 frame=7910] Cube.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=18.14 frame=7964] Sphere.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=18.20 frame=7986] Cube.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=19.01 frame=8328] Sphere.Update (world (0.00, 0.00, 0.00), local (0.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=19.01 frame=8328] Sphere.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=19.02 frame=8329] Cube.Update (world (-3.00, 0.00, 0.00), local (-3.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=19.02 frame=8329] Cube.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=19.14 frame=8384] Sphere.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=19.20 frame=8410] Cube.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=20.01 frame=8773] Sphere.Update (world (0.00, 0.00, 0.00), local (0.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=20.01 frame=8773] Sphere.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=20.02 frame=8774] Cube.Update (world (-3.00, 0.00, 0.00), local (-3.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=20.02 frame=8774] Cube.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=20.14 frame=8829] Sphere.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=20.20 frame=8855] Cube.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=21.02 frame=9205] Sphere.Update (world (0.00, 0.00, 0.00), local (0.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=21.02 frame=9205] Sphere.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=21.02 frame=9206] Cube.Update (world (-3.00, 0.00, 0.00), local (-3.00, 0.00, 0.00))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=21.02 frame=9206] Cube.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=21.16 frame=9238] Sphere.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=21.20 frame=9255] Cube.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=0.00 frame=0] Cube.OnDisable
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:OnDisable () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:39)
+
+[t=0.00 frame=0] Cube.OnDestroy
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:OnDestroy () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:41)
+
+[t=0.00 frame=0] Sphere.OnDisable
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:OnDisable () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:39)
+
+[t=0.00 frame=0] Sphere.OnDestroy
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:OnDestroy () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:41)
+
