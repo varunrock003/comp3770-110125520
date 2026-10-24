@@ -1,0 +1,16 @@
+[Lab04] Lab04_PropA/Crate_Metal: vertices 2744, triangles 2738, uv True, normals 2744, size (0.01, 0.01, 0.01)
+UnityEngine.Debug:Log (object)
+Lab04MeshReport:Start () (at Assets/Lab04/Scripts/Lab04MeshReport.cs:14)
+
+[Lab04] Lab04_PropA (1)/default: vertices 2720, triangles 2738, uv True, normals 2720, size (0.86, 0.87, 0.87)
+UnityEngine.Debug:Log (object)
+Lab04MeshReport:Start () (at Assets/Lab04/Scripts/Lab04MeshReport.cs:14)
+
+[Lab04] Lab04_PropB/Barrel: vertices 1317, triangles 824, uv True, normals 1317, size (0.01, 0.01, 0.01)
+UnityEngine.Debug:Log (object)
+Lab04MeshReport:Start () (at Assets/Lab04/Scripts/Lab04MeshReport.cs:14)
+
+[Lab04] Lab04_PropC/Book_5: vertices 132, triangles 96, uv True, normals 132, size (0.00, 0.00, 0.00)
+UnityEngine.Debug:Log (object)
+Lab04MeshReport:Start () (at Assets/Lab04/Scripts/Lab04MeshReport.cs:14)
+

@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3421554391192769599
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 3478fce70b481b14b9d8356f3edf8587, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.5884
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3478fce70b481b14b9d8356f3edf8587, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3478fce70b481b14b9d8356f3edf8587, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.5884
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3478fce70b481b14b9d8356f3edf8587, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071067
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3478fce70b481b14b9d8356f3edf8587, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3478fce70b481b14b9d8356f3edf8587, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3478fce70b481b14b9d8356f3edf8587, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3478fce70b481b14b9d8356f3edf8587, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3478fce70b481b14b9d8356f3edf8587, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3478fce70b481b14b9d8356f3edf8587, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3478fce70b481b14b9d8356f3edf8587, type: 3}
+      propertyPath: m_Name
+      value: Lab04_PropA
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 3478fce70b481b14b9d8356f3edf8587, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2037739329920263828}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 3478fce70b481b14b9d8356f3edf8587, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 956028562792311210}
+  m_SourcePrefab: {fileID: 100100000, guid: 3478fce70b481b14b9d8356f3edf8587, type: 3}
+--- !u!1 &2574550761152457070 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 3478fce70b481b14b9d8356f3edf8587, type: 3}
+  m_PrefabInstance: {fileID: 3421554391192769599}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2037739329920263828
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2574550761152457070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86c27aaccd2cd964d905f47479ed9546, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Lab04Prop
+  displayName: A
+  points: 25
+  spinSpeed: 30
+--- !u!114 &956028562792311210
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2574550761152457070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb144c247675b9440b940c04ea32a4b0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Lab03LifecycleLogger
+  id: Prop
+  logInterval: 1
+  logCount: 0

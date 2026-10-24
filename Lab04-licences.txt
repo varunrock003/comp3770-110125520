@@ -1,0 +1,6 @@
+Lab04_PropA.obj - Quaternius - https://quaternius.com/packs/fantasypropsmegakit - https://quaternius.com/license.html 
+Lab04_PropA.fbx - Quaternius - https://quaternius.com/packs/fantasypropsmegakit- https://quaternius.com/license.html
+Lab04_PropB.fbx - Quaternius - https://quaternius.com/packs/fantasypropsmegakit - https://quaternius.com/license.html
+Lab04_PropC.fbx - Quaternius - https://quaternius.com/packs/fantasypropsmegakit - https://quaternius.com/license.html
+Lab04_Texture.png - ambientCG - https://ambientcg.com/view?id=Metal050A - CC0 [https://docs.ambientcg.com/license/]
+Lab04_Sound.wav - Kenney - https://kenney.nl/assets/impact-sounds - CC0 [https://kenney.nl/support] 

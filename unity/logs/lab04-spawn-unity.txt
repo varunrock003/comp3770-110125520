@@ -1,0 +1,20 @@
+[t=0.00 frame=1] Prop.Awake
+[t=0.00 frame=1] Prop.OnEnable
+[t=0.00 frame=1] after Instantiate: Lab04_PropA(Clone)
+
+[t=0.00 frame=1] Prop.Awake
+[t=0.00 frame=1] Prop.OnEnable
+[t=0.00 frame=1] after Instantiate: Lab04_PropA(Clone)
+
+[t=0.00 frame=1] Prop.Awake
+[t=0.00 frame=1] Prop.OnEnable
+[t=0.00 frame=1] after Instantiate: Lab04_PropA(Clone)
+
+[Lab04] 3 instantiations in 3.69 ms
+
+[t=0.00 frame=1] Prop.Start
+[t=0.00 frame=1] Prop.Start
+[t=0.00 frame=1] Prop.Start
+
+[Lab04] 500 instantiations in 138.92 ms
+Average per instantiation: approximately 0.278 ms

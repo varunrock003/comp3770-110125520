@@ -1,0 +1,7 @@
+{
+  "entities": [
+    { "id": "entity_01", "prefab": "Lab04_PropA", "x": -4.0, "y": 0.0, "z": 0.0, "points": 99, "spinSpeed": 30.0 },
+    { "id": "entity_02", "prefab": "Lab04_PropB", "x": 0.0, "y": 0.0, "z": 0.0, "points": 20, "spinSpeed": 60.0 },
+    { "id": "entity_03", "prefab": "Lab04_PropC", "x": 4.0, "y": 0.0, "z": 0.0, "points": 30, "spinSpeed": 90.0 }
+  ]
+}
